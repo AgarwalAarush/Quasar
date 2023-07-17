@@ -22,6 +22,13 @@
       }
     },
     {
+      "name": "HTML/CSS Tags",
+      "scope": "entity.name.tag.block.any.html",
+      "settings": {
+        "foreground": "#11a793"
+      }
+    },
+    {
       "name": "haskell variable generic-type",
       "scope": "variable.other.generic-type.haskell",
       "settings": {

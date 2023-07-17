@@ -29,6 +29,41 @@
       }
     },
     {
+      "name": "Vue Main Tags",
+      "scope": "entity.name.tag.template.html",
+      "settings": {
+        "foreground": "#11a793"
+      }
+    },
+    {
+      "name": "Vue Main Tags",
+      "scope": "entity.name.tag.script.html",
+      "settings": {
+        "foreground": "#11a793"
+      }
+    },
+    {
+      "name": "Vue Main Tags",
+      "scope": "entity.name.tag.style.html",
+      "settings": {
+        "foreground": "#11a793"
+      }
+    },
+    {
+      "name": "JSON Comments",
+      "scope": "support.type.property-name.json.",
+      "settings": {
+        "foreground": "#11a793",
+      }
+    },
+    {
+      "name": "CSS Units",
+      "scope": "meta.property-list.css",
+      "settings": {
+        "foreground": "#c678dd"
+      }
+    },
+    {
       "name": "haskell variable generic-type",
       "scope": "variable.other.generic-type.haskell",
       "settings": {
@@ -836,7 +871,7 @@
       "name": "Units",
       "scope": "keyword.other.unit",
       "settings": {
-        "foreground": "#ffffff"
+        "foreground": "#c678dd"
       }
     },
     {

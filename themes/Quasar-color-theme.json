@@ -29,6 +29,20 @@
       }
     },
     {
+      "name": "More HTML/CSS Tags",
+      "scope": "entity.name.tag.form.html",
+      "settings": {
+        "foreground": "#11a793"
+      }
+    },
+    {
+      "name": "More HTML/CSS Tags",
+      "scope": "entity.name.tag.block.form.html",
+      "settings": {
+        "foreground": "#11a793"
+      }
+    },
+    {
       "name": "Vue Main Tags",
       "scope": "entity.name.tag.template.html",
       "settings": {
